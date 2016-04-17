@@ -1,3 +1,4 @@
+<pre>
 # max_min_heap
 	这个文件夹下是堆的一些用法
 
@@ -23,3 +24,5 @@
 	int MakeHeap(int heap[], int n) 最小堆的创建操作
 	int HeapSort(int heap[], int n) 最小堆的排序操作
 	int ShowHeap(int heap[], int n) 最小堆的显示
+
+</pre>	
