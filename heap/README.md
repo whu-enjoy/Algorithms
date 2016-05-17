@@ -1,6 +1,7 @@
 <pre>
 # max_min_heap
-	这个文件夹下是堆的一些用法
+	这个文件夹下是堆的一些用法<br>
+	更详细的代码解释,请看我的博客 http://blog.csdn.net/enjoy5512/article/details/51019253
 
 1.Max_heap.c
 	最大堆的使用方法
